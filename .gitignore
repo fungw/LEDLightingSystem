@@ -22,3 +22,5 @@
 *.uvgui.*
 Objects
 *.sct
+
+.DS_STORE
